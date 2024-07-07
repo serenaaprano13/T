@@ -1,0 +1,29 @@
+.position-absolute {
+  position: absolute;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.title-row {
+  margin-bottom: 1rem;
+  /* Aumenta questo valore per più spazio */
+  margin-top: 1rem;
+}
+
+.top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.back-button-bar {
+  position: sticky;
+  top: 50px;
+  z-index: 1;
+}
+
+.react-datepicker__day--highlighted {
+  background-color: #ff0;
+}
